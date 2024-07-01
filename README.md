@@ -36,9 +36,4 @@ This dataset can be valuable for various data analysis and machine learning task
 * **Understanding customer behavior:** Analyze how different factors influence customer responses to telemarketing campaigns.
 * **Optimizing marketing strategies:** Develop more targeted and effective campaigns by identifying the most successful contact methods and customer segments.
 
-## License
-
-This dataset is available under the [insert license name here] license (link to license details).
-
-**Please note:** You'll need to replace `[insert license name here]` with the actual license under which you're distributing the dataset.
 
