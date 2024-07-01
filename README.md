@@ -28,12 +28,5 @@ The dataset comprises information about customers and their interactions with te
 
 * `y` (categorical): Indicates whether the customer subscribed to the insurance product ("yes" or "no").
 
-## Potential Uses
-
-This dataset can be valuable for various data analysis and machine learning tasks, including:
-
-* **Predicting customer insurance subscription:** Build models to identify customers most likely to subscribe to insurance based on their characteristics and past interactions.
-* **Understanding customer behavior:** Analyze how different factors influence customer responses to telemarketing campaigns.
-* **Optimizing marketing strategies:** Develop more targeted and effective campaigns by identifying the most successful contact methods and customer segments.
 
 
