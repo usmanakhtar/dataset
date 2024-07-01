@@ -1,9 +1,8 @@
-# dataset
-This is the assigment dataset for the MS data analytics student. This dataset contains information about Zenith Insurance, a dynamic insurance provider known for its innovative approach, utilizes various outreach methods to promote its term life insurance products. 
 
-# Telemarketing Customer Dataset for Insurance Subscription Prediction
 
-This repository contains a dataset on past telemarketing campaigns conducted to promote insurance subscriptions. The data can be used to build machine learning models that predict customer likelihood to subscribe to the insurance product.
+# Dataset for the Assignmnent 
+
+This is the assigment dataset for the MS data analytics student. This dataset contains information about Zenith Insurance, a dynamic insurance provider known for its innovative approach, utilizes various outreach methods to promote its term life insurance products. This repository contains a dataset on past telemarketing campaigns conducted to promote insurance subscriptions. The data can be used to build machine learning models that predict customer likelihood to subscribe to the insurance product.
 
 ## Dataset Description
 
@@ -36,10 +35,6 @@ This dataset can be valuable for various data analysis and machine learning task
 * **Predicting customer insurance subscription:** Build models to identify customers most likely to subscribe to insurance based on their characteristics and past interactions.
 * **Understanding customer behavior:** Analyze how different factors influence customer responses to telemarketing campaigns.
 * **Optimizing marketing strategies:** Develop more targeted and effective campaigns by identifying the most successful contact methods and customer segments.
-
-## How to Contribute
-
-We welcome contributions to this repository! If you have any questions, suggestions, or improvements, feel free to create an issue or pull request.
 
 ## License
 
