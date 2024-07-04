@@ -2,7 +2,7 @@
 
 # Dataset for the Assignmnent 
 
-This is the assigment dataset for the MS data analytics student. This dataset contains information about Zenith Insurance, a dynamic insurance provider known for its innovative approach, utilizes various outreach methods to promote its term life insurance products. This repository contains a dataset on past telemarketing campaigns conducted to promote insurance subscriptions. The data can be used to build machine learning models that predict customer likelihood to subscribe to the insurance product.
+This is the assigment dataset for the MS data analytics student. This dataset contains information about HashSysTech Insurance, a dynamic insurance provider known for its innovative approach, utilizes various outreach methods to promote its term life insurance products. This repository contains a dataset on past telemarketing campaigns conducted to promote insurance subscriptions. The data can be used to build machine learning models that predict customer likelihood to subscribe to the insurance product.
 
 ## Dataset Description
 
